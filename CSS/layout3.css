@@ -1,0 +1,85 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper
+{
+    width: 80%;
+    min-height: 50pc;
+    margin: auto;
+    border: solid black;
+
+}
+.logoAndmenu
+{
+    width: auto;
+    height: 50px;
+    border: solid black;
+    margin: 7px;
+}
+.logo
+{
+    width: 50%;
+    float: right;
+    height: auto;
+    border: solid black;
+    margin: 3px;
+    background-color: lightgray;
+}
+.menu
+{
+    width: 40%;
+    float: left;
+    height: auto;
+    border: solid black;
+    margin: 3px;
+    background-color: lightblue;
+    text-decoration: none;
+    
+}
+.menu a:hover
+{
+    color: red;
+   
+    padding: 10%;
+}
+.slider
+{
+    width: 98%;
+    height: 40px;
+    border: solid black;
+    margin: 10px;
+}
+.sidebar
+{
+    /* width: 97%;
+    flex: 50%;
+    flex-direction: left;
+    height:50px ;
+    border: solid black;
+    margin: 10px; */            
+    width: 25%; 
+    float:left;
+     height: 10pc;
+     border: solid black;
+      margin:10px
+   
+}
+.contant
+{
+    width: 71%; 
+    float:right;
+     height: 10pc;
+     border: solid black;
+      margin:10px
+}
+.footer
+{
+    width: 75%;
+    height: 10%;
+    border: solid black;
+}
+
+
